@@ -1,0 +1,60 @@
+.whole-page {
+  margin: 30px, auto;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.weather-app {
+  max-width: 700px;
+  border: 2px solid #777eb1;
+  padding: 10px;
+}
+.location-overview {
+  margin-bottom: 30spx;
+}
+
+.weather-temp img {
+  margin-right: 30px;
+  height: 70px;
+  width: 70px;
+}
+
+.weather-temp strong {
+  font-size: 37px;
+  color: rgb(115, 115, 172);
+  font-weight: 400;
+  padding: 0;
+}
+
+.weather-temp .units {
+  color: black;
+  position: fixed;
+  font-size: 16px;
+}
+.ferinheit {
+  color: #0a0c0e;
+}
+
+h1 {
+  color: #777eb1;
+  font-size: 28px;
+  line-height: 30px;
+  margin: 0;
+  padding: 0px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+li:firstletter {
+  text-transform: capitalize;
+}
+
+li {
+  font: 16px;
+  font-weight: 100;
+  font-display: bold;
+  color: #0a0c0e;
+  list-style: none;
+}
